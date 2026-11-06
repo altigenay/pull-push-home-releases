@@ -11,4 +11,4 @@ Kaynak kodu özel depoda tutulur; burada yalnızca imzalı APK yayınlanır.
 
 Pull&Push Home, [kavunOS](https://github.com/batuhankul61-hub/kavunOS) ve
 CleanYourTV (Gathin) üzerine kuruludur (MIT).
-Lisans metinleri: `LICENSE-kavunOS-cleanyourtv.txt`; Inter yazı tipi SIL OFL 1.1: `INTER-LICENSE-OFL.txt`.
+Lisans metinleri: `LICENSE-kavunOS-cleanyourtv.txt`; yazı tipleri SIL OFL 1.1: Inter `INTER-LICENSE-OFL.txt`, Outfit `OUTFIT-LICENSE-OFL.txt`. 2.0 sürümünden itibaren CleanYourTV 3.4 tasarımı da içindedir.
